@@ -3,7 +3,7 @@
 - 👀 I’m interested in E-mobility and blockchain technology
 - 🌱 I’m currently learning C, Dart and Devops on AWS
 - 💞️ I’m looking to collaborate on IoT and Web3 projects
-- 📫 How to reach me on linkedin www.linkedin.com/in/oliver-s-wainaina
+- 📫 Reach me on linkedin www.linkedin.com/in/oliver-s-wainaina
 
 
 
